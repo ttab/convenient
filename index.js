@@ -1,3 +1,6 @@
+var invoke = require('./lib/invoke');
+
 module.exports = {
-    invoke: require('lib/invoke')
+    invoke  : invoke,
+    ninvoke : invoke
 };
