@@ -1,5 +1,5 @@
 {
-  "name": "convenient",
+  "name": "mod-cons",
   "version": "0.0.3",
   "description": "Modern conveniences for native JavaScript promises.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttab/convenient.git"
+    "url": "git+https://github.com/ttab/mod-cons.git"
   },
   "keywords": [
     "promise",
@@ -19,9 +19,9 @@
   "author": "Fredrik Appelberg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ttab/convenient/issues"
+    "url": "https://github.com/ttab/mod-cons/issues"
   },
-  "homepage": "https://github.com/ttab/convenient#readme",
+  "homepage": "https://github.com/ttab/mod-cons#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
