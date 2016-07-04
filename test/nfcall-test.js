@@ -28,4 +28,13 @@ describe('nfcall', function () {
             });
     });
 
+    it('returns a rejected promise on exceptions', function () {
+        mod.fun.throws(new Error('panda attack!'));
+        return nfcall(mod.fun, 1, 2)
+            .should.eventually.be.rejectedWith('panda attack!')
+            .and.then(function () {
+                mod.fun.should.have.been.calledOnce;
+            });
+    });
+
 });
