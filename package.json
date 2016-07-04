@@ -1,6 +1,6 @@
 {
   "name": "mod-cons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Modern conveniences for native JavaScript promises.",
   "main": "index.js",
   "scripts": {
