@@ -18,11 +18,13 @@ implementation. No wrappers.
   - [ninvoke / nsend][ninvoke]
   - [nfcall]
   - [nfapply]
-  - nfbind / denodeify - *TBA*
+  - [nfbind / denodeify][nfbind]
   - nbind - *TBA*
-  - npost / nmapply - *TBA*
+  - [npost / nmapply][npost]
 
 [Q]:https://github.com/kriskowal/q/
 [ninvoke]:https://github.com/kriskowal/q/wiki/API-Reference#qninvokeobject-methodname-args
 [nfcall]:https://github.com/kriskowal/q/wiki/API-Reference#qnfcallfunc-args
 [nfapply]:https://github.com/kriskowal/q/wiki/API-Reference#qnfapplynodefunc-args
+[nfbind]:https://github.com/kriskowal/q/wiki/API-Reference#qnfbindnodefunc-args
+[npost]:https://github.com/kriskowal/q/wiki/API-Reference#qnpostobject-methodname-args
