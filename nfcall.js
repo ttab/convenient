@@ -1,4 +1,4 @@
-var resolver = require('./resolver');
+var resolver = require('./lib/resolver');
 
 module.exports = function nfcall(fn) {
     var args = Array.prototype.slice.call(arguments, 1);

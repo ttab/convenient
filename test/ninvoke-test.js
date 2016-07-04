@@ -1,6 +1,6 @@
 /*global describe,it,stub,beforeEach,expect */
 
-var ninvoke = require('../lib/ninvoke');
+var ninvoke = require('../ninvoke');
 
 describe('ninvoke', function () {
     var obj;

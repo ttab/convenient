@@ -1,5 +1,5 @@
-var ninvoke = require('./lib/ninvoke');
-var nfcall  = require('./lib/nfcall');
+var ninvoke = require('./ninvoke');
+var nfcall  = require('./nfcall');
 
 module.exports = {
     nsend   : ninvoke,

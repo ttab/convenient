@@ -1,6 +1,6 @@
 /*global describe,it,stub,beforeEach */
 
-var nfcall = require('../lib/nfcall');
+var nfcall = require('../nfcall');
 
 describe('nfcall', function () {
     var mod;
