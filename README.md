@@ -17,7 +17,7 @@ implementation. No wrappers.
 
   - [ninvoke / nsend][ninvoke]
   - [nfcall]
-  - nfapply - *TBA*
+  - [nfapply]
   - nfbind / denodeify - *TBA*
   - nbind - *TBA*
   - npost / nmapply - *TBA*
@@ -25,3 +25,4 @@ implementation. No wrappers.
 [Q]:https://github.com/kriskowal/q/
 [ninvoke]:https://github.com/kriskowal/q/wiki/API-Reference#qninvokeobject-methodname-args
 [nfcall]:https://github.com/kriskowal/q/wiki/API-Reference#qnfcallfunc-args
+[nfapply]:https://github.com/kriskowal/q/wiki/API-Reference#qnfapplynodefunc-args
