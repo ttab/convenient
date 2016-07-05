@@ -3,13 +3,15 @@ var npost   = require('./npost');
 var nfcall  = require('./nfcall');
 var nfapply = require('./nfapply');
 var nfbind  = require('./nfbind');
+var nbind   = require('./nbind');
 
 module.exports = {
-    nsend   : ninvoke,
-    ninvoke : ninvoke,
-    npost   : npost,
-    nmapply : npost,
-    nfcall  : nfcall,
-    nfapply : nfapply,
-    nfbind  : nfbind
+    nsend     : ninvoke,
+    ninvoke   : ninvoke,
+    npost     : npost,
+    nfcall    : nfcall,
+    nfapply   : nfapply,
+    nfbind    : nfbind,
+    denodeify : nfbind,
+    nbind     : nbind
 };

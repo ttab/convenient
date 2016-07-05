@@ -19,7 +19,7 @@ implementation. No wrappers.
   - [nfcall]
   - [nfapply]
   - [nfbind / denodeify][nfbind]
-  - nbind - *TBA*
+  - [nbind]
   - [npost / nmapply][npost]
 
 [Q]:https://github.com/kriskowal/q/
@@ -28,3 +28,4 @@ implementation. No wrappers.
 [nfapply]:https://github.com/kriskowal/q/wiki/API-Reference#qnfapplynodefunc-args
 [nfbind]:https://github.com/kriskowal/q/wiki/API-Reference#qnfbindnodefunc-args
 [npost]:https://github.com/kriskowal/q/wiki/API-Reference#qnpostobject-methodname-args
+[nbind]:https://github.com/kriskowal/q/wiki/API-Reference#qnbindnodemethod-thisarg-args
