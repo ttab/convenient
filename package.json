@@ -1,6 +1,6 @@
 {
   "name": "mod-cons",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Modern conveniences for native JavaScript promises.",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,16 @@
     "url": "git+https://github.com/ttab/mod-cons.git"
   },
   "keywords": [
-    "promise", "promises",
-    "nsend", "ninvoke", "npost", "nfcall", "nfapply", "nfbind", "denodeify", "nbind"
+    "promise",
+    "promises",
+    "nsend",
+    "ninvoke",
+    "npost",
+    "nfcall",
+    "nfapply",
+    "nfbind",
+    "denodeify",
+    "nbind"
   ],
   "author": "Fredrik Appelberg",
   "license": "MIT",
