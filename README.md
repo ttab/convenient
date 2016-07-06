@@ -20,7 +20,7 @@ implementation. No wrappers.
   - [nfapply]
   - [nfbind / denodeify][nfbind]
   - [nbind]
-  - [npost / nmapply][npost]
+  - [npost][npost]
 
 [Q]:https://github.com/kriskowal/q/
 [ninvoke]:https://github.com/kriskowal/q/wiki/API-Reference#qninvokeobject-methodname-args
