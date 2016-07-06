@@ -12,10 +12,8 @@
     "url": "git+https://github.com/ttab/mod-cons.git"
   },
   "keywords": [
-    "promise",
-    "promises",
-    "util",
-    "helper"
+    "promise", "promises",
+    "nsend", "ninvoke", "npost", "nfcall", "nfapply", "nfbind", "denodeify", "nbind"
   ],
   "author": "Fredrik Appelberg",
   "license": "MIT",
