@@ -4,6 +4,7 @@ var nfcall  = require('./nfcall');
 var nfapply = require('./nfapply');
 var nfbind  = require('./nfbind');
 var nbind   = require('./nbind');
+var defer   = require('./defer');
 
 module.exports = {
     nsend     : ninvoke,
@@ -13,5 +14,6 @@ module.exports = {
     nfapply   : nfapply,
     nfbind    : nfbind,
     denodeify : nfbind,
-    nbind     : nbind
+    nbind     : nbind,
+    defer     : defer
 };
