@@ -21,6 +21,7 @@ implementation. No wrappers.
   - [nfbind / denodeify][nfbind]
   - [nbind]
   - [npost][npost]
+  - [defer]
 
 [Q]:https://github.com/kriskowal/q/
 [ninvoke]:https://github.com/kriskowal/q/wiki/API-Reference#qninvokeobject-methodname-args
@@ -29,3 +30,4 @@ implementation. No wrappers.
 [nfbind]:https://github.com/kriskowal/q/wiki/API-Reference#qnfbindnodefunc-args
 [npost]:https://github.com/kriskowal/q/wiki/API-Reference#qnpostobject-methodname-args
 [nbind]:https://github.com/kriskowal/q/wiki/API-Reference#qnbindnodemethod-thisarg-args
+[defer]:https://github.com/kriskowal/q/wiki/API-Reference#qdefer
