@@ -1,4 +1,4 @@
-/*global describe,it,stub,beforeEach */
+/*global describe,it */
 
 var defer = require('../defer');
 
