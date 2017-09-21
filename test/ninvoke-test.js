@@ -1,4 +1,5 @@
 /* global describe,it,stub,beforeEach,expect */
+/* eslint-disable no-unused-expressions */
 
 var ninvoke = require('../ninvoke')
 

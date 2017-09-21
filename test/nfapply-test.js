@@ -1,4 +1,5 @@
 /* global describe,it,stub,beforeEach */
+/* eslint-disable no-unused-expressions */
 
 var nfapply = require('../nfapply')
 
