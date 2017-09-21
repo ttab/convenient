@@ -1,13 +1,11 @@
-/*global describe,it,expect */
+/* global describe,it,expect */
 
-var delay = require('../delay');
+var delay = require('../delay')
 
-describe('delay', function() {
-
-    it('returns a promise that is eventually resolved', function() {
-        var d = delay(1000);
-        expect(d.then).to.be.a('function');
-        return d;
-    });
-
-});
+describe('delay', function () {
+  it('returns a promise that is eventually resolved', function () {
+    var d = delay(1000)
+    expect(d.then).to.be.a('function')
+    return d
+  })
+})
